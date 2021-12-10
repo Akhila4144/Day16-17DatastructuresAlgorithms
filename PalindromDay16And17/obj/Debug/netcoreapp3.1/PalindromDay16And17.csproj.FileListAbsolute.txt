@@ -1,0 +1,14 @@
+C:\Users\Raj Nani\source\repos\PalindromDay16And17\PalindromDay16And17\bin\Debug\netcoreapp3.1\PalindromDay16And17.exe
+C:\Users\Raj Nani\source\repos\PalindromDay16And17\PalindromDay16And17\bin\Debug\netcoreapp3.1\PalindromDay16And17.deps.json
+C:\Users\Raj Nani\source\repos\PalindromDay16And17\PalindromDay16And17\bin\Debug\netcoreapp3.1\PalindromDay16And17.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\PalindromDay16And17\PalindromDay16And17\bin\Debug\netcoreapp3.1\PalindromDay16And17.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\PalindromDay16And17\PalindromDay16And17\bin\Debug\netcoreapp3.1\PalindromDay16And17.dll
+C:\Users\Raj Nani\source\repos\PalindromDay16And17\PalindromDay16And17\bin\Debug\netcoreapp3.1\PalindromDay16And17.pdb
+C:\Users\Raj Nani\source\repos\PalindromDay16And17\PalindromDay16And17\obj\Debug\netcoreapp3.1\PalindromDay16And17.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\PalindromDay16And17\PalindromDay16And17\obj\Debug\netcoreapp3.1\PalindromDay16And17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\PalindromDay16And17\PalindromDay16And17\obj\Debug\netcoreapp3.1\PalindromDay16And17.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\PalindromDay16And17\PalindromDay16And17\obj\Debug\netcoreapp3.1\PalindromDay16And17.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\PalindromDay16And17\PalindromDay16And17\obj\Debug\netcoreapp3.1\PalindromDay16And17.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\PalindromDay16And17\PalindromDay16And17\obj\Debug\netcoreapp3.1\PalindromDay16And17.dll
+C:\Users\Raj Nani\source\repos\PalindromDay16And17\PalindromDay16And17\obj\Debug\netcoreapp3.1\PalindromDay16And17.pdb
+C:\Users\Raj Nani\source\repos\PalindromDay16And17\PalindromDay16And17\obj\Debug\netcoreapp3.1\PalindromDay16And17.genruntimeconfig.cache
