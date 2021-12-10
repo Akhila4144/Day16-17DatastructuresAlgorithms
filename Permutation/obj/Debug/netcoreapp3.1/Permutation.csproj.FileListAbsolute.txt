@@ -1,0 +1,14 @@
+C:\Users\Raj Nani\source\repos\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.exe
+C:\Users\Raj Nani\source\repos\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.deps.json
+C:\Users\Raj Nani\source\repos\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.dll
+C:\Users\Raj Nani\source\repos\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.pdb
+C:\Users\Raj Nani\source\repos\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.dll
+C:\Users\Raj Nani\source\repos\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.pdb
+C:\Users\Raj Nani\source\repos\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.genruntimeconfig.cache
